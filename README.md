@@ -31,7 +31,7 @@ Interests:
   - Animation Projects
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## What I Work On
 
@@ -47,7 +47,8 @@ Interests:
 - **Experimental & Learning Projects**  
   Exploring new technologies, prototyping innovative ideas, and continuously improving my skills in full-stack development.
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
 
 ## Languages
 <table>
